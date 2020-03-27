@@ -15,3 +15,4 @@
 4. 统计占比输出
 
 ## 结果
+<img src="https://github.com/xinxin1000/Sampling-Func-Count/blob/master/freq-profile-test.png" width="600" height="150" align="bottom" />
